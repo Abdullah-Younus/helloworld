@@ -1,4 +1,4 @@
-secret.json
+**/secret
 node_modules
 .env
 coverage
